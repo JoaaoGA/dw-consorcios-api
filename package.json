@@ -7,15 +7,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JoaooGA/dw-consorcios-api.git"
+    "url": "git+https://github.com/JoaaoGA/dw-consorcios-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JoaooGA/dw-consorcios-api/issues"
+    "url": "https://github.com/JoaaoGA/dw-consorcios-api/issues"
   },
-  "homepage": "https://github.com/JoaooGA/dw-consorcios-api#readme",
+  "homepage": "https://github.com/JoaaoGA/dw-consorcios-api#readme",
   "dependencies": {
     "axios": "^1.9.0"
   },
