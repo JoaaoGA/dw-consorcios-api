@@ -1,15 +1,6 @@
+
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "api/cotacoes.js",
-      "use": "@vercel/node"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/api/cotacoes",
-      "dest": "api/cotacoes.js"
-    }
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
   ]
 }
